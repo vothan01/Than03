@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.secret
+.deps
+.history
+bin
+.test
+
+#Hardhat files
+cache
+artifacts
